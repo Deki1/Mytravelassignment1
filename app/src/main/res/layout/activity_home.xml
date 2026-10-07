@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="fitXY"
+        android:src="@drawable/home"
+        android:contentDescription="Home Screen" />
+
+    <EditText
+        android:id="@+id/searchEditText"
+        android:layout_width="280dp"
+        android:layout_height="45dp"
+        android:layout_gravity="top|center_horizontal"
+        android:layout_marginTop="200dp"
+        android:background="@android:color/transparent"
+        android:hint=""
+        android:inputType="text" />
+
+    <Button
+        android:id="@+id/profileButton"
+        android:layout_width="220dp"
+        android:layout_height="55dp"
+        android:layout_gravity="bottom|end"
+        android:layout_marginBottom="20dp"
+        android:layout_marginEnd="20dp"
+        android:text=""
+        android:background="@android:color/transparent" />
+
+</FrameLayout>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Mytravelapp</string>
+
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+
+    <string name="hello_sofia">Hello Sofia</string>
+    <string name="where_to_next">Where to next?</string>
+    <string name="search_destinations">Search destinations</string>
+    <string name="go_to_profile">Go To Profile</string>
+
+    <string name="your_profile">Your Profile</string>
+    <string name="sofia_bennett">Sofia Bennett</string>
+    <string name="london_uk">London, UK</string>
+    <string name="back_to_home">Back To Home</string>
+
+</resources>
